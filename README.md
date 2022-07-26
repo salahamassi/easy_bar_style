@@ -1,8 +1,7 @@
 <p align="center">              
 <a href="https://img.shields.io/badge/License-MIT-green"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"></a>              
-<a href="[https://pub.dev/packages/auto_route](https://pub.dev/packages/easy_bar_style)"><img src="https://img.shields.io/pub/v/easy_bar_style.svg?label=pub&color=orange" alt="pub version"></a>              
+<a href="https://pub.dev/packages/easy_bar_style"><img src="https://img.shields.io/pub/v/easy_bar_style.svg?label=pub&color=orange" alt="pub version"></a>              
 </p>              
-
 
 # easy_bar_style
 
