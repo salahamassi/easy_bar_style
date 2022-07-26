@@ -105,6 +105,10 @@ you can use the ```StatusBarStyle``` & ```SystemNavigationBarStyle``` togther us
   } 
  ```
  
+ ** Note
+ if you are using ```Scafold``` widget with ```AppBar``` widget set systemOverlayStyle to app directly and no need to use this package
+ 
+ 
 # Support
 <p align="center">
 <a href='https://ko-fi.com/U7U5E1983' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
